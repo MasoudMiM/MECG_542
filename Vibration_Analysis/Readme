@@ -1,0 +1,7 @@
+Vibration analysis - bearing, belt, and EDM faults
+These sound files were taken from a database that spans over 2,500 machines.
+
+These are very noisy sound files were taken from a database, where I have labeled the files by the type of fault, a building number, and the point on the equipment, as well as date and time of the recording are in the file title. The way we use these files is by reviewing the Waveform as well as the FFT of the file and the trend value in the velocity spectrum of an overall value. When speech recognition was using Waveform and FFT the end result was poor at best, when ML was used the results got much better. The files that I have uploaded are all 2 seconds long which represents many revolutions of the motor so each file could be split up into approximately 30 to 60 files to be used for ML.
+
+
+Link to the source: https://www.kaggle.com/tyhuffman/vibration-analysis-bearing-belt-and-edm-faults 
