@@ -1,0 +1,11 @@
+The possible existence of a "law-of-the-wall" similarity velocity profile for 3-D boundary layers was investigated using nine different proposed relations with the data from nine experiments carried out in 3-D turbulent boundary layers. Both for pressure driven and shear-driven flows, the "law-of-the-wall" relation of Johnston for the local freestream velocity direction component best applies. Although not well described by any relation, the crosswise velocity component of pressure-driven flows and shear-driven flows is best represented by Mager's relation and Chandrashekhar and Swamy equation, respectively.
+
+A three dimensional, pressure driven turbulent boundary layer created by a wing-body junction flow was experimentally studied. 
+The wing used was 3:2, semi-elliptical nosed NACA 0020 tailed symmetric profile which has a chord length of 30.5 cm (12 in.), maximum thickness of 7.17cm (2.824 in.), and height of 22.9 cm (9.016 in.). The wing was mounted on the centreline of the flat plate wind tunnel floor. The nominal reference velocity of the flow was 27 m/s and the Reynolds number based on the momentum thickness at 0.75 chord upstream of the wing on the centreline of the tunnel and wing was = 5936.
+The data included the mean velocity and all Reynolds stresses at several (x, z) stations on a line determined by translating in the direction of the mean velocity vector component parallel to the wall in the layer where the  normal stress is maximum.
+	 
+Data were obtained both with hot-wire (HW, at 24 stations) and laser Doppler-velocimeter (LDV, at 8 stations) techniques. The incoming boundary layer was measured at 15 different stations located at 0.75 chord upstream of the wing across half of the tunnel test section.
+
+The LDV measurements were taken twice due to the differences observed between the HW and the LDV data. The uncertainties on the mean velocity and the stresses were examined extensively. Also, time-mean static pressure as well as the skin friction magnitude and direction on the wall (at LDV locations) were measured.
+
+Link to the source: http://cfd.mace.manchester.ac.uk/cgi-bin/cfddb/prpage.cgi?63&EXP&&database/cases/case63&cas63_head.html&cas63_desc.html&cas63_meth.html&cas63_data.html&cas63_refs.html&cas63_rsol.html&1&1&1&1&1&unknown and 
