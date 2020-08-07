@@ -1,0 +1,75 @@
+Hole Deviation is the unintentional departure of the drill bit from a pre-selected borehole trajectory. 
+Whether it involves drilling a straight or curved hole section, the tendency of the drill bit to walk away from the desired path can lead to drilling problems such as higher drilling costs and also lease boundary legal problems. 
+•	Definition source: https://petrowiki.org/Hole_deviation
+CAUSES OF HOLE DEVIATION:
+It is not exactly known what causes a drill bit to deviate from its unintended path. it is generally agreed that one or a combination of several of the following factors may be responsible for the deviation. 
+1.	Heterogeneous nature of formation and dip angle 
+2.	Drill string characteristics, specifically the bottom hole assembly makeup (BHA) 
+3.	Applied weight on bit (WOB) 
+4.	Stabilizers (location, number, clearances) 
+5.	Hole inclination angle from the vertical 
+6.	Hydraulics at the bit 
+7.	Improper hole cleaning 
+It is known that some resultant force acting on a drill bit causes hole deviation to occur. The mechanics of this resultant force is complex and is governed mainly by the mechanics of the Bottom hole assembly(BHA), rock/bit interaction, bit operating conditions, and to some extent, the drilling fluid hydraulics.
+The forces imparted to the drill bit because of the BHA are directly related to the makeup of the BHA e.g: 
+•	Stiffness 
+•	Stabilizers 
+•	Reamers 
+The BHA is a flexible, elastic structural member that can buckle under compressive loads. The buckled shape of a given designed Bottom hole assembly(BHA) depends on the amount of applied weight on the bit. The significance of the BHA buckling is that it causes the axis of the drill bit to misalign with the axis of the intended hole path, thus causing the deviation. Pipe stiffness and length and the number of stabilizers which is also the location and clearances from the wall of the wellbore are the two major parameters that govern the BHA buckling behaviour. 
+Actions that can minimize the buckling tendency of the BHA include reducing WOB and using stabilizers with outside diameters that are almost in gauge with the wall of the borehole. 
+The contribution of the rock / bit interaction to bit the deviating forces is governed by: 
+•	Rock properties 
+•	Cohesive strength 
+•	Bedding or dip angle 
+•	Internal friction angle 
+•	Drill-bit design features 
+•	Tooth angle 
+•	Bit size 
+•	Bit type 
+•	Bit offset in case of roller-cone bits
+•	Teeth location and number
+•	Bit profile
+•	Bit hydraulic features
+•	Drilling parameters
+•	Tooth penetration into the rock and its cutting mechanism
+The mechanics of rock/bit interaction is a very complex subject and is the least understood in regard to hole-deviation problems. Fortunately, the advent of downhole measurement-while-drilling tools that allow monitoring the advance of the drill bit along the desired path makes our lack of understanding of the mechanics of hole deviation more acceptable.
+WHAT ARE WELL LOGS:
+Well logs are single point measures of physical properties of the subsurface recorded in a well and vary vertically with depth. 
+The properties are random and depend on factors like mineral composition or lithology, porosity, cementation and compaction, presence of fluids etc. 
+A suite of conventional well logs recorded from an offshore area is recorded and it shows how the properties vary with depth and how it affects the hole deviation class. 
+WELL LOGS PROPERTIES:
+The properties of a well log dataset includes logs like Gamma-ray, Poisson's ratio which are excellent lithology indicators, while others like density, wave velocity, shale volume are mainly useful for understanding the rock type, types of pore fluids as well as the pressure and compaction trends in the deposited sediments. 
+The Deviation class which is the classification column mainly indicates if there was a deviation of the drill bit at that particular depth or not, and the indication will be: 
+•	0 if at that particular depth the drill bit did not deviate from its pre selected trajectory. 
+•	1 if at the particular depth, the drill bit deviated from its pre selected trajectory. 
+It is also known that some resultant force acting on a drill bit causes hole deviation to occur. The mechanics of this resultant force is complex and it is governed mainly by the mechanics of the bottom hole assembly makeup (BHA) 
+Density porosity, a physical property that is derived from density logs gives a measure of the amount of pore space in the same rock type or different rock-type. 
+The sediments are generally transported by rivers and deposited in the basin, and so the lithology depends on what types of rocks get weathered and the rivers that carried the sediments through.
+The common rock type encountered for this well log dataset are: 
+•	Sandstone / Sand: rock made up of quartz grains feldspars, calcite, heavy minerals and other rock fragments. 
+•	Shalestone / Shale: rock made up of clay minerals some of which are radioactive. 
+•	Siltstone / Silt: a rock composed of both sand and shale can be present too. 
+The provided well log dataset contains parameters for drilling which are: 
+•	Depth 
+•	Gamma-ray 
+•	Shale Volume 
+•	Resistivity 
+•	Delta T 
+•	Velocity of the drill bit 
+•	Density 
+•	Neutron porosity 
+•	Density porosity 
+•	Poisson's ratio
+•	Classification
+ORIGINAL DATA SOURCE:
+This Dataset was gotten and modified by Mbonu Chinedum from the links below: 
+•	https://github.com/tannisthamaiti/ML_well_log
+•	https://towardsdatascience.com/machine-learning-applied-to-geophysical-well-log-data-58ebb6ee2bc6 
+•	https://github.com/tannisthamaiti/ML_well_log/blob/master/Welldata_manyfeatures.ipynb
+•	https://petrowiki.org/Hole_deviation
+Special thanks to 
+•	Ramya Ravindranathan 
+•	tannisthamaiti (github.com) 
+For making the well log data open source and easy to access. 
+
+Link to the source: https://www.kaggle.com/cboychinedu/hole-deviation 
