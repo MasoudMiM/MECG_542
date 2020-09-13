@@ -1,0 +1,5 @@
+Experimental data on mechanical behavior and numerical data on tensile stress distribution of a hyperelastic Polydimethysiloxane (PDMS) based membrane for cell culture.
+The data on mechanical behavior of the membrane was experimentally measured by a UTM and presented as stress-strain curves, which can be expressed by a 2nd order polynomial mathematical model. This model was then used in FEA based numerical simulations in ANSYS WORKBENCH R16.2 in order to analyze tensile stress distribution over the membrane surface under different strain loading conditions. Model validation was conducted by comparing the tension force required to generate a 20% strain loading as measured with the UTM with that estimated by the simulation. The membrane area having uniform tensile stress distribution was suggested to be used for cell culture.
+
+Link to the paper:
+https://www.sciencedirect.com/science/article/pii/S235234092030370X#fig0003
