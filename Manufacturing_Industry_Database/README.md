@@ -11,9 +11,6 @@ The NBER-CES Manufacturing Industry Database contains annual data from the Unite
 The majority of the variables provided in the database are taken from the Census Bureau’s Annual Survey of Manufactures (ASM). The ASM includes about 50,000 establishments selected from the approximately 300,000 establishments included in the Census of Manufactures (CMF). The ASM is conducted annually, except for years ending in 2 and 7, when it is part of the CMF.
 
 The eleven variables defined in the dataset are:
-More detailed explanations of these variables can be found in the
-1appendixes of various CMF publications, including the General Summary of the 1997 Economic Census
-Manufacturing Subject Series.
 
 - North American Industrial Classification System (NAICS) 2012 6-digit industry (naics)
 - NAICS industry Class (naics_title)
@@ -41,7 +38,7 @@ Manufacturing Subject Series.
 - 4-factor TFP annual growth rate (dtfp4)
 - 4-factor TFP index 2012=1.000 (tfp4)
 
-Variables are denominated in millions of nominal dollars, except for labor variables that are denominated in thousands of workers or millions of worker hours. To convert nominal dollars to real (“fixed-base”) dollars and calculate productivity factors, four different deflators are used. These are discussed in the following sections.
+Variables are denominated in millions of nominal dollars, except for labor variables that are denominated in thousands of workers or millions of worker hours. To convert nominal dollars to real (“fixed-base”) dollars and calculate productivity factors, four different deflators are used. These are discussed in the following sections. More detailed explanations of these variables can be found in the appendixes of various CMF publications, including the General Summary of the 1997 Economic Census Manufacturing Subject Series.
 
 ### Industry Capital Stocks and the Investment Deflator (piinv, plant, equip, cap)
 The FRB data are used to calculate separate depreciation rates for equipment and structures for each industry, backing the depreciation numbers out of a standard perpetual inventory equation:
