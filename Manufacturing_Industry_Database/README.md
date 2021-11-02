@@ -10,7 +10,7 @@ The NBER-CES Manufacturing Industry Database contains annual data from the Unite
 ### ASM/Census (emp, pay, prode, prodh, prodw, vship, matcost, vadd, invest, invent, energy)
 The majority of the variables provided in the database are taken from the Census Bureau’s Annual Survey of Manufactures (ASM). The ASM includes about 50,000 establishments selected from the approximately 300,000 establishments included in the Census of Manufactures (CMF). The ASM is conducted annually, except for years ending in 2 and 7, when it is part of the CMF.
 
-The eleven variables defined in the dataset are:
+The variables defined in the dataset are:
 
 - North American Industrial Classification System (NAICS) 2012 6-digit industry (naics)
 - NAICS industry Class (naics_title)
